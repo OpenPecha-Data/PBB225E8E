@@ -1,0 +1,13 @@
+id: PBB225E8E
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 6,09: Māṇavikā'
+  language: bo
+  volumes:
+    0ea55c0c8bf74814a1bfb7eca646fe98:
+      title: Māṇavikā
+      base_file: Māṇavikā.txt
+      work_id: W44446D60
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:57:39.268425'
+last_modified_at: '2022-03-01T22:57:39.268431'
